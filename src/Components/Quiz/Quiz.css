@@ -48,3 +48,11 @@
     margin: auto;
     font-size: 18px;
 }
+.container .correct{
+    background: white;
+    border-color: lime;
+}
+.container .wrong{
+    background: white;
+    border-color: red;
+}
